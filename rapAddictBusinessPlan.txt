@@ -1,0 +1,49 @@
+# Rapaddict Business Plan
+
+**Contenu**
+
+- Playlist de la semaine
+- Playlist spotify (Creer un Spotify Rapaddict)
+
+**Présence:**
+
+- Insta
+- Twitch
+- Youtube
+- Mixcloud
+- Facebook
+- Twitter
+- Site Web
+
+**Insta**
+- Story
+  - Promotions de l'IGTV
+  - Son de la semaine
+- IGTV
+  - Créer des capsules nouvelles sorties son (news), profil artistes Belges, Coups de coeur de la semaine, ou du mois, Le parcours (sur un artiste),  
+
+**Site Web**
+
+- Page d'accueil et de présentation générale avec Carousel
+- Video des interviews 
+- Profils d'artistes Belges
+- Presentations de la team
+  - Bio
+  - Voir leurs travail
+  - Comment les contacter
+  - Gallerie photo (Carousel?)
+- Un media player pour streamer du son
+- Un shop avec du Merch
+
+## Phase 1
+
+- Mettre en place des interviews hebdomadaire sur Rapaddict
+  - Contacter les artistes
+  - Avoir un ou deux interviewers
+  - Preparer les interviews
+- Les mettre sur Mixcloud
+  - 
+- Les projeter sur Insta Live puis les sauver sur IGTV
+- Preparer la chaine Youtube
+- Se renseigner sur comment on pourrait streamer sur twitch
+- Créer du merch (Plug Natsu)
