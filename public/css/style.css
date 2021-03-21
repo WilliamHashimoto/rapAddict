@@ -1,16 +1,51 @@
+body {
+    background-image: url('/public/img/logo/logo\ rapaddict\ 1.png');
+    background-repeat: no-repeat;
+    background-position: center 0%;
+}
+
+.titre {
+    background-image: url('/public/img/gallery/nachomarushka22.jpg');
+    margin: 0;
+    height: 150px;
+    position: sticky;
+}
+
 nav {
     background-color: rgba(0, 0, 0, 0.74);
+    height: 65px;
+    width: 100%;
+    margin: 0;
+    padding: auto;
+    position: absolute;
+    bottom: 0;
 }
 
 nav ul.navtop {
     list-style-type: none;
+    margin: auto;
+    padding: 15px 0;
+    text-align: center;
+    overflow: hidden;
+    
+}
+
+nav ul li {
+    display: inline;
 }
 
 nav ul li a {
+    padding: 20px;
     text-decoration: none;
     color: white;
 }
 
 .logo {
     height: 40px;
+}
+
+nav ul li a:hover {
+    background-color: rgba(1, 1, 1, 0.815);
+    text-decoration: none;
+    color: white;
 }
