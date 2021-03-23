@@ -1,8 +1,4 @@
-body {
-    background-image: url('/public/img/logo/logo\ rapaddict\ 1.png');
-    background-repeat: no-repeat;
-    background-position: center 0%;
-}
+/* header */
 
 .titre {
     background-image: url('/public/img/gallery/nachomarushka22.jpg');
@@ -48,4 +44,41 @@ nav ul li a:hover {
     background-color: rgba(1, 1, 1, 0.815);
     text-decoration: none;
     color: white;
+}
+
+/* body */
+
+body {
+    background-image: url('/public/img/logo/logo\ rapaddict\ 1.png');
+    background-repeat: no-repeat;
+    background-position: center 0%;
+    
+}
+
+main {
+    background-color: #f4c946a4;
+    height: 100vh;
+}
+
+.siteTitle {
+    text-align: center;
+    /* background-color: royalblue;  */
+    margin:0;
+}
+
+.section1 {
+    text-align: center;
+    background-color: #6936b6e7;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 25px;
+}
+
+.section1>div {
+    width: 30vw;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 10px;
 }

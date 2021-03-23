@@ -47,3 +47,8 @@
 - Preparer la chaine Youtube
 - Se renseigner sur comment on pourrait streamer sur twitch
 - Créer du merch (Plug Natsu)
+
+
+Conseil:
+- Imaginer un parcours d'utilisateurs sur le Site (Trois clicks maximum pour arriver dans les sous-couches)
+- Faire un plan du site sur papier d'abord
