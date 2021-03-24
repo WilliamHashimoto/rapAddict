@@ -1,7 +1,7 @@
 /* header */
 
 .titre {
-    background-image: url('/public/img/gallery/nachomarushka22.jpg');
+    /* background-image: url('/public/img/gallery/nachomarushka22.jpg'); */
     margin: 0;
     height: 150px;
     position: sticky;
@@ -49,26 +49,28 @@ nav ul li a:hover {
 /* body */
 
 body {
-    background-image: url('/public/img/logo/logo\ rapaddict\ 1.png');
+    background-image: url('/public/img/gallery/jmk\ &\ piero\ RA.jpg');
     background-repeat: no-repeat;
     background-position: center 0%;
     
 }
 
 main {
-    background-color: #f4c946a4;
+    /* background-color: #f4c946a4; */
     height: 100vh;
 }
 
 .siteTitle {
     text-align: center;
+    color: #ef84c863;
     /* background-color: royalblue;  */
-    margin:0;
+    font-size: 15vh;
+    margin: 25px;
+    text-shadow: 1px 1px 0 #000;
 }
 
 .section1 {
-    text-align: center;
-    background-color: #6936b6e7;
+    background-color: #ef84c863;
     display: flex;
     justify-content: space-evenly;
     margin: 50px;
@@ -81,4 +83,5 @@ main {
     border: 2px solid black;
     border-radius: 15px;
     margin: 10px;
+    background-color: rgba(255, 255, 255, 0.445);
 }
