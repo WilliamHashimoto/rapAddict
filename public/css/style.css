@@ -79,9 +79,14 @@ main {
 }
 
 .section1>div {
+    text-align: justify;
     width: 30vw;
     border: 2px solid black;
     border-radius: 15px;
     margin: 10px;
     background-color: rgba(255, 255, 255, 0.445);
+}
+
+.titre2 {
+    text-align: center;
 }
