@@ -1,0 +1,22 @@
+{
+  "name": "rapaddict",
+  "version": "1.0.0",
+  "description": "RapaddictWebsite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamHashimoto/rapAddict.git"
+  },
+  "author": "William Hashimoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamHashimoto/rapAddict/issues"
+  },
+  "homepage": "https://github.com/WilliamHashimoto/rapAddict#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}

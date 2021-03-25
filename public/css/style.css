@@ -1,11 +1,5 @@
 /* header */
 
-.titre {
-    /* background-image: url('/public/img/gallery/nachomarushka22.jpg'); */
-    margin: 0;
-    height: 150px;
-    position: sticky;
-}
 
 nav {
     background-color: rgba(0, 0, 0, 0.479);
@@ -13,8 +7,8 @@ nav {
     width: 100%;
     margin: 0;
     padding: auto;
-    position: absolute;
-    bottom: 0;
+    position: fixed;
+    top: 0;
 }
 
 nav ul.navtop {
@@ -94,8 +88,27 @@ main {
     border-radius: 15px;
     margin: 10px;
     background-color: rgba(255, 255, 255, 0.445);
+    transition: 1s;
 }
 
+.section1>div:hover{
+    transform:scale(1.1);
+}
+
+}
 .titre2 {
     text-align: center;
+}
+
+
+
+.test {
+    width: 150px;
+    height: 150px;
+    background-color: skyblue;
+    transition: 3s;
+}
+
+.test:hover {
+    transform: rotate(360deg);
 }
